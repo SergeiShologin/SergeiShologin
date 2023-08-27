@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Zynthara&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SergeiShologin&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
   Hi, I am Sergei Shologin
@@ -55,5 +55,5 @@ I'm an enthusiastic Frontend Developer currently residing in Kazakhstan.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zynthara&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zynthara&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SergeiShologin&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiShologin&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
