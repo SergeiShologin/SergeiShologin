@@ -21,7 +21,7 @@
 
 ### :man_technologist: About me :
 
-I'm an enthusiastic Frontend Developer currently residing in Kazakhstan.
+I'm an enthusiastic Frontend Developer with experience in multiple React projects.
 - :computer: I like to write code.
 
 - :video_game: I love to play video games and read psychology books.
