@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sergei-shologin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/SerjShl">
+  <a href="https://t.me/sshologin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -30,7 +30,7 @@ I'm an enthusiastic Frontend Developer with experience in multiple React project
 
 - :zap: In my free time, I solve problems on CodeWars, Leetcode and read tech articles in both English and Russian languages.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-SerjShl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SerjShl) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shologin.s@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Sergei_Shologin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sergei-shologin)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-SerjShl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sshologin) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shologin.s@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Sergei_Shologin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sergei-shologin)
 
 ---
 
@@ -54,7 +54,3 @@ I'm an enthusiastic Frontend Developer with experience in multiple React project
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=SergeiShologin&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiShologin&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
